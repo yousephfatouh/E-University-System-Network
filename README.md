@@ -16,7 +16,7 @@
 
 This graduation project focuses on designing a robust, scalable, and secure network infrastructure for an E-University system. Developed using Cisco Packet Tracer, the design incorporates advanced networking concepts to support diverse academic and administrative operations, ensuring high availability, efficient data flow, and stringent security measures. This project demonstrates practical application of theoretical knowledge in network engineering.
 
-🚀 Key Features & Technologies
+## 🚀 Key Features & Technologies
 
 Our network design integrates several critical features and technologies to meet the demands of a contemporary university environment:
 
